@@ -18,9 +18,5 @@ which determine the quality of water
 ![design](https://user-images.githubusercontent.com/37845653/71911644-15e0cc80-319a-11ea-815a-94f92e3fe750.JPG)
 
 
-Turbidity Sensor:
-Turbidity is a measure of the cloudiness of water. Turbidity has indicated the degree
-at which the water loses its transparency. It is considered as a good measure of the
-quality of water. Turbidity blocks out the light needed by submerged aquatic
-vegetation. It also can raise surface water temperatures above normal because
-suspended particles near the surface facilitate the absorption of heat from sunlight.
+
+
